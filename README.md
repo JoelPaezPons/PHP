@@ -1,8 +1,3 @@
-
-¡Genial! Al ser proyectos de DAW (Desarrollo de Aplicaciones Web) del Instituto Provençana, lo ideal es un README que muestre organización y dominio de los conceptos fundamentales de PHP (backend, formularios, sesiones, POO y MVC).
-
-Aquí tienes una propuesta de estructura profesional para tu repositorio de PHP:
-
 Ejercicios de PHP - DAW (2º Año) 🐘
 Este repositorio contiene las prácticas y ejercicios realizados durante el segundo año del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW) en el Instituto Provençana.
 
