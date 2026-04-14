@@ -1,7 +1,7 @@
 Ejercicios de PHP - DAW (2º Año) 🐘
 Este repositorio contiene las prácticas y ejercicios realizados durante el segundo año del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW) en el Instituto Provençana.
 
-📂 Contenido del Repositorio
+Contenido del Repositorio
 El proyecto está organizado por bloques temáticos según el progreso del curso:
 
 1. Fundamentos y Lógica
@@ -26,7 +26,7 @@ MVC (Modelo-Vista-Controlador): Implementación de una arquitectura profesional 
 
 Generador de Sitios Estáticos: Proyecto para la generación automatizada de contenido.
 
-🛠️ Tecnologías Utilizadas
+Tecnologías Utilizadas
 Lenguaje: PHP 8.x
 
 Servidor: Apache (XAMPP / Laragon)
